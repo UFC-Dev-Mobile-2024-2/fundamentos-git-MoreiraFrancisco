@@ -99,7 +99,7 @@ Você pode acessar o site do GitHub Explore [em github.com/explore](https://gith
 - [ ] Abra um pull request no seu repositório individual informando que concluiu este curso. 
 
 
-## mardaow
+## mardaowgit comm
 
 ## 📝 Passos da Tarefa (para quem achou fácil a anterior)
 
